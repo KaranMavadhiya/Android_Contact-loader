@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db4437</color>
+    <color name="colorPrimaryDark">#b93221</color>
+    <color name="colorPrimaryLight">#ec5345</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorActionModeBackground">#bab6b6</color>
+
+    <color name="colorBackground">#faf6f6</color>
+    <color name="colorPrimaryText">#0B0B0B</color>
+    <color name="colorSecondaryText">#686767</color>
+
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="icon_tint_selected">#fed776</color>
+
+    <color name="row_activated">#e0e0e0</color>
+    <color name="bg_action_mode">#757575</color>
+    <color name="bg_circle_default">#666666</color>
+</resources>
