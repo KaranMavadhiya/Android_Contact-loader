@@ -45,3 +45,11 @@ public class ContactLoader extends AsyncTaskLoader<List<Contact>> {
 }
 ~~~
 
+
+## Referance 
+
+https://developer.android.com/training/contacts-provider/retrieve-names.html
+
+https://developer.android.com/reference/android/content/AsyncTaskLoader.html
+
+
